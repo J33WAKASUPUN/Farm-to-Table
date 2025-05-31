@@ -68,7 +68,7 @@
   * #### **Email:** [ngtych4@gmail.com](ngtych4@gmail.com)
 
 **Jeewaka Supun**
-  * #### **GitHub:** [@J33WAKASUPUN]((https://github.com/J33WAKASUPUN)
+  * #### **GitHub:** [@J33WAKASUPUN](https://github.com/J33WAKASUPUN)
   * #### **Email:** [supunprabodha789@gmail.com](supunprabodha789@gmail.com)
 
   ## **Credits**
