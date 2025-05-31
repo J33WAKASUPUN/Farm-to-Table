@@ -10,7 +10,7 @@
   ## **Live Link**
   https://glacial-falls-13622.herokuapp.com/      
   ## **Description**
-  Farm to Table is a web application that is also made to be highly mobile responsive. It currently connects users to a farm where they can reserve products like fresh meats, fruits, vegetables and dairies. The application is built with an admin side to allow the farmer who is selling their products be able to add, edit and delete what is for sale. The admin also has to ability to mark something as "Out of Season" which will keep the product in their database but will not display it to users. The application features a functioning cart that can be edited and updated dynamically. In the near future we hope to add the ability to have multiple farms able to set up accounts in our application to broaden products and their availability.
+  Farm to Table is a mobile-responsive web application connecting consumers with local farms for fresh produce reservations. The platform offers seamless product browsing with seasonal availability, a dynamic shopping cart system, and secure order placement. Customers can view their order history, while farm administrators manage products, seasonal offerings, and inventory. Recent enhancements include a direct messaging system with notification badges, PDF invoice generation with on-screen preview and download capabilities, improved product image management supporting multiple photos per item, and a streamlined contact form powered by EmailJS for customer inquiries. Built to support local agriculture, Farm to Table bridges the gap between farmers and consumers seeking fresh, locally-sourced food, with plans to expand to a multi-farm platform in the future.
   ## **Demo**
   #### **Desktop/Laptop**
   ![home page](client/public/assets/readMe/homeDesktop.png)
@@ -29,6 +29,9 @@
   * [Robert Anderson](https://github.com/reanderson89)
 
   * [Neil Gandhi](https://github.com/ntch2000)
+
+  * [Jeewaka Supun](https://github.com/J33WAKASUPUN)
+
 
   
   ## **Technology Stack**
@@ -63,6 +66,10 @@
 **Robert Anderson**
   * #### **GitHub:** [@ntch2000](https://github.com/ntch2000)
   * #### **Email:** [ngtych4@gmail.com](ngtych4@gmail.com)
+
+**Jeewaka Supun**
+  * #### **GitHub:** [@J33WAKASUPUN]((https://github.com/J33WAKASUPUN)
+  * #### **Email:** [supunprabodha789@gmail.com](supunprabodha789@gmail.com)
 
   ## **Credits**
    * [Bulma](https://bulma.io/)
